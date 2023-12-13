@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learnig **Python language**
 
-- 📝 I regularly write articles on [https://medium.com/@suhasw91](https://medium.com/@suhasw91)
+- 📝 I will start writing articles soon on [https://medium.com/@suhasw91](https://medium.com/@suhasw91)
 
 - 💬 Ask me about anything  **AWS,Devops**
 
