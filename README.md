@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AWS and Devops Projects**
 
-- 🌱 I’m currently learnig **Python language**
+- 🌱 I’m currently learning **Python language**
 
 - 📝 I will start writing articles soon on [https://medium.com/@suhasw91](https://medium.com/@suhasw91)
 
